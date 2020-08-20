@@ -1,1 +1,1 @@
-# local-maxima
+# localmaxima.org website
